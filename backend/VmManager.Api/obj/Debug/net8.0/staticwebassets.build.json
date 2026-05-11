@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OYL/5eiTa3Ns+FS3peG0TIZfEGFfWVVQ900ISkGrTfs=",
+  "Source": "VmManager.Api",
+  "BasePath": "_content/VmManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

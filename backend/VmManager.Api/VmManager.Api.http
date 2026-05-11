@@ -1,0 +1,6 @@
+@VmManager.Api_HostAddress = http://localhost:5007
+
+GET {{VmManager.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,1 @@
+export interface CurrentUser {  id: string;  name: string;  email: string;  role: 'Administrador' | 'Cliente';}export interface LoginRequest {  email: string;  password: string;}
